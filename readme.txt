@@ -33,6 +33,11 @@ Node Practices
     3) 프로젝트 초기화: 프로젝트 메니페스트 (manifest)파일인 package.json를 생성
         $[project-ex02] npm init -y
 5. Module
+    1) 코어 모듈: node에서 제공해 주는 모듈(fd, os, ....)
+    2) 파일 모듈: 파일 경로로 불러와서 모듈안의 함수, 객체를 사용한다.
+    3) npm 모듈: npm을 통해서 node_modules에 설치하고 사용하는 모듈
+        - 원격배포
+        - 로컬배포
 6.
 7.
 8.
