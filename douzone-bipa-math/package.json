@@ -1,15 +1,12 @@
 {
-  "name": "project-ex02",
+  "name": "douzone-bipa-math",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "douzone-bipa-math": "file:../douzone-bipa-math",
-    "kickscar-calculate": "^1.0.0"
-  }
+  "license": "ISC"
 }
